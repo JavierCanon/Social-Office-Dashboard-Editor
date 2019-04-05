@@ -328,3 +328,27 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# exe libs
+libs/
+# sign key
+*.snk
+
+# custom files
+lib/
+Logs/
+*.licx
+*.licx.txt
+
+# privacy concerns files
+NBug.dll.config
+
+# private project folders
+SO.Web
+SO.Database
+SO.Setup
+SO.Desktop
+SO.Desktop.SAC
+SO.Web/Web.config
+Installers
+Publish
